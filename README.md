@@ -1,0 +1,1 @@
+Emojis have become an intergral part of our communication online, this Emoji Interpreter created using React will help you figure out the meaning of the some of the most used emojis according to Emojipedia
